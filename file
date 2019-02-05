@@ -3,5 +3,6 @@ class Assignment2{
 		String s="Introduction to Version control"
 		System.out.println(s);
 		System.out.println("shivam");
-	}
+		System.out.println("yash");
+  }
 }
