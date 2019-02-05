@@ -4,5 +4,6 @@ class Assignment2{
 		System.out.println(s);
 		System.out.println("shivam");
 		System.out.println("yash");
-  }
+		System.out.println("saddam");
+ 	}
 }
